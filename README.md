@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Rael! 👋
 
-<!--
-**raelis18/raelis18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado que adora criar e explorar novas tecnologias. Aqui está um pouco sobre mim:
 
-Here are some ideas to get you started:
+## Sobre Mim
+- 💻 Atualmente estou trabalhando como Lider Técnico em um time de Observabilidade
+- 💬 Pergunte-me sobre Zabbix e Grafana
+- 📫 Como me encontrar: israel.silvasantos@gmail.com
+- ⚡ Fato curioso: Colegiono Games retros 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minhas Habilidades
+- **Linguagens:** Python, Javascript, SQL
+- **Ferramentas:** Zabbix, Grafana, Prometheus, Docker, Azure, API
+
+## Estatísticas do GitHub
+![Estatísticas do GitHub de Raelis](https://github-readme-stats.vercel.app/api?username=raelis18&show_icons=true&theme=radical)
+
+## Conecte-se Comigo
+- [LinkedIn] https://www.linkedin.com/in/israel-santos19/
+
+Obrigado por visitar meu perfil! Tenha um ótimo dia! 😊
