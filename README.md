@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado que adora cri
 - 💻 Atualmente estou trabalhando como Lider Técnico em um time de Observabilidade
 - 💬 Pergunte-me sobre Zabbix e Grafana
 - 📫 Como me encontrar: israel.silvasantos@gmail.com
-- ⚡ Fato curioso: Colegiono Games retros 
+- ⚡ Fato curioso: Coleciono video games retros 
 
 ## Minhas Habilidades
 - **Linguagens:** Python, Javascript, SQL
