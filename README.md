@@ -18,4 +18,4 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado que adora cri
 ## Conecte-se Comigo
 - [LinkedIn] https://www.linkedin.com/in/israel-santos19/
 
-Obrigado por visitar meu perfil! Tenha um ótimo dia! 😊
+Obrigado por visitar meu perfil!😊
