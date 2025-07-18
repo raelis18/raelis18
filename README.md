@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado que adora cri
 - 💻 Lider Técnico em um time de Observabilidade
 - 💻 Zabbix Specialist
 - ⚡ Colecionador de video games retrôs
-- 💬 Vamos bater um papo sobre: Zabbix, Grafana, Observabilidade, Python e Futebol e Video Games?
+- 💬 Vamos bater um papo sobre: Zabbix, Grafana, Observabilidade, Python, Futebol e Video Games?
 - 📫 Como me encontrar: israel.silvasantos@gmail.com
  
 
