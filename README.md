@@ -1,6 +1,6 @@
 # Olá, eu sou Rael! 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado que adora criar e explorar novas tecnologias. Aqui está um pouco sobre mim:
+Bem-vindo ao meu perfil no GitHub!
 
 ## Sobre Mim
 - ⚡ Entusiasta da cultura DevOps
